@@ -21,3 +21,9 @@ I don't just study science; I try to build it.
 
 Example of my simulations:
 [Check out my Portfolio](https://satyajitbeura2468.github.io)
+
+---
+
+### 📝 Published Research
+* [**Dimensional Memory Encoding (DME): A Theoretical Introduction**](https://medium.com/@subhadrarout80/dimensional-memory-encoding-dme-a-theoretical-introduction-fb9a692ce704)
+*(My latest article exploring the intersection of Quantum Mechanics and Cognitive Science)*
