@@ -1,6 +1,6 @@
 ### Hi, I'm Satyajit Beura 👋
 
-I am a Class 11 Student (Arjuna NEET) and Researcher from Odisha, India.
+I am a Class 11 Student and Researcher from Odisha, India.
 My work exists at the boundary where **Advanced Physics** meets **Artificial Intelligence**.
 
 I don't just study science; I try to build it.
