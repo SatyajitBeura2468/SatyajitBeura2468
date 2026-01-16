@@ -1,29 +1,41 @@
-### Hi, I'm Satyajit Beura 👋
+# Namaste, I'm Satyajit Beura! 🙏
+### 🔭 Independent Researcher | Class 11 Survivor | OAVS Musiguda
 
-I am a Class 11 Student and Researcher from Odisha, India.
-My work exists at the boundary where **Advanced Physics** meets **Artificial Intelligence**.
+Welcome to my corner of the internet.
 
-I don't just study science; I try to build it.
+I am technically a **Class 11 Science student**, which means my life is 40% assignments, 40% worrying about Boards, and 20% trying to simulate the Universe on my laptop before my mom catches me awake at 2 AM.
 
----
-
-### 🔭 What I am Working On
-* **Dimensional Memory Encoding (DME):** A theoretical framework exploring how memory data is encoded across dimensions.
-* **Pollution Eating Paint:** Developing chemical compounds to neutralize air pollutants (National Science Exhibition project).
-* **Visualizing the Cosmos:** Using **Three.js** and **Python** to simulate fluid dynamics (Bernoulli's Principle) and astrophysical events.
-
-### ⚡ Technical Arsenal
-* **Physics:** Thermodynamics, Fluid Dynamics, Astrophysics
-* **Code:** HTML/CSS, JavaScript (Three.js), Python
-* **Tools:** Gemini AI, Replit, GitHub
+My goal? To crack the code of reality (and hopefully NEET/JEE) without losing my sanity.
 
 ---
 
-Example of my simulations:
-[Check out my Portfolio](https://satyajitbeura2468.github.io)
+## 🧠 Things Keep Me Awake at Night (My Research)
+
+### 1. Algorithmic Convergent Evolution (ACE Theory) 🧬 *[Current Obsession]*
+My latest theory. I’m basically asking: **"Does the Universe have a favorite source code?"**
+* I'm trying to prove that evolution isn't just random luck, but a fundamental algorithm that nature uses to optimize everything—from biological cells to cosmic structures. It’s heavy stuff, but someone’s gotta do it.
+
+### 2. Dimensional Memory Encoding (DME Model) 🌌
+This is where I try to mix **Quantum Mechanics** with **Psychology**.
+* The core idea: What if our memories aren't just stored in neurons, but encoded across higher spatial dimensions? (Yes, thinking about this hurts my brain too).
+
+### 3. Project Tejas-Vayu 🍃 *[Built it!]*
+Because Bhawanipatna heat is real, and pollution is worse.
+* I built an **AI-driven simulation** for "Pollution Eating Paint" using $TiO_2$ photocatalysis. It’s my attempt at making Smart Cities actually smart.
+* **[Launch Project Tejas-Vayu 🚀](https://satyajitbeura2468.github.io/Project-Tejas-Vayu/)**
+---
+
+## 📂 Proof That I Actually Work
+If you want to see the serious, "professional" side of me (so my teachers don't scold me):
+
+* **📜 My Published Research:** [Read my Papers here](https://osf.io/qjy3g/)
+* **💻 The Lab (Portfolio):** [Check out my simulations](https://satyajitbeura2468.github.io/)
 
 ---
 
-### 📝 Published Research
-* [**Dimensional Memory Encoding (DME): A Theoretical Introduction**](https://medium.com/@subhadrarout80/dimensional-memory-encoding-dme-a-theoretical-introduction-fb9a692ce704)
-*(My latest article exploring the intersection of Quantum Mechanics and Cognitive Science)*
+## ⚡ Technical Arsenal
+* **Physics:** Thermodynamics & Fluid Dynamics (My love-hate relationship).
+* **Code:** HTML/JS (Three.js), Python (The snake that helps me build things).
+* **Fuel:** Curiosity, Late Night Snacks, and the fear of an unfulfilled potential.
+
+> *"Trying to do better. One equation at a time."*
