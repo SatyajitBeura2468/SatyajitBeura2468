@@ -33,7 +33,7 @@ If you want to see the serious, "professional" side of me (so my teachers don't 
 * **📜 My Published Research:** [Read my Papers here](https://osf.io/qjy3g/)
 * **💻 The Lab (Portfolio):** [Check out my simulations](https://satyajitbeura2468.github.io/)
 * **✍️ Random Thoughts & Science Rants:** [Read my Articles on Medium](https://medium.com/@satyajitbeura)
-* 
+  
 ---
 
 ## ⚡ Technical Arsenal
